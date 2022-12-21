@@ -1,3 +1,5 @@
+Output 2
+
 public class PyramidPatternStarProgram 
 {
 	public static void PyramidPattern(int n)
